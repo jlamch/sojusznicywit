@@ -63,7 +63,7 @@ page_sections:
     alt_text: ''
   headline: <strong><span class="light">Przywileje</span></strong>
   content: 'Mówiąc o różnorodności i sprawiedliwości społecznej musimy też powiedzieć
-    o przywilejach. <a href="http://sojusznicywit.pl/przywileje.html" title="">Moja
+    o przywilejach. <a href="http://jlamch.net/sojusznicywit/przywileje.html" title="">Moja
     lista 60 przywilejów</a> przystosowana do warunków polskich.<br>Przeczytaj i sprawdz
     jak wiele przywilejów masz, mimo że ich nie zauważasz.<a href="http://www.programistkaikot.pl/2020/06/sojusznicy-w-it-przywileje.html"
     title=""><br>Sojusznicy i IT: Przywileje</a>'
